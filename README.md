@@ -3,9 +3,10 @@ app: "Municipio de São João da Madeira APP IOS"          # Entre as aspas escr
 date: "14/06/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://apps.apple.com/us/app/s-jo%C3%A3o-da-madeira/id1244211502"   # Entre as aspas escreve o endereço da app na loja
 a11y_statement: "https://www.cm-sjm.pt/pt/acessibilidade-ios" # Entre as aspas escreve o URL da Declaração de Acessibilidade da App. A declaração da App está num URL público
+a11y_statement_date: "25/09/2026"  # Entre as aspas escreve a data da Declaração de Acessibilidade
 owner: "CM São João da Madeira"         # Entre as aspas escrever o nome do owner da app
 seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
-validity: "10-09-2026 a 10-09-2027" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
+validity: "10/09/2026 a 10/09/2027" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
 status: "Concluído" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
 ---
 
